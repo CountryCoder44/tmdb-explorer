@@ -12,9 +12,6 @@ dist
 dist-ssr
 *.local
 
-# Interview prep notes — not meant to be public in the repo
-REVIEW_PREP.md
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
